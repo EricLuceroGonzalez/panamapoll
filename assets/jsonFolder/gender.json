@@ -1,7 +1,7 @@
 [
     {"name": "Masculino"},
     {"name": "Femenino"},
-    {"name": "Otro",
+    {"name": "No binario",
     "generos":[
       {"name": "Masculino"},
       {"name": "Masculino"},
